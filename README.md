@@ -6,6 +6,8 @@ The **Plant Shopping App** is a frontend web application built using React that 
 
 Users can explore different plants, view product details, and experience a modern online plant shopping interface.
 
+Visit to see live project: https://augustusfrancis.github.io/e-plantShopping/
+
 ## ✨ Features
 
 - 🌱 Browse a collection of plants.
@@ -95,8 +97,6 @@ This project was developed to practice React fundamentals, component-based archi
 - Add user authentication.
 - Integrate a backend API for plant products.
 - Add a checkout and payment workflow.
-
-## 👨‍💻 Author
 
 **Your Name**
 
